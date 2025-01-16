@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sensorgrid/lasergrid"
+	"$additive" 1
+	"$nocull" 1	
+	%noportal 1
+}

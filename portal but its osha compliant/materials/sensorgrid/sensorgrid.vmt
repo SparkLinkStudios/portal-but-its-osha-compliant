@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sensorgrid/sensorgrid"
+	"$basetexturetransform" "center 0 0 scale 2 2 rotate 0 translate 0 0"
+	"$additive" 1
+	"$translucent" 1
+	"Proxies"
+	%noportal 1
+	{
+
+		
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 24 
+		}
+	}
+}
