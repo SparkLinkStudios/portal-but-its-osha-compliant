@@ -1,2 +1,3 @@
-# portal-but-its-osha-compliant
-Portal, but it's OSHA Compliant. Mod for Portal 1.
+# Portal, but it's OSHA Compliant
+
+Hello! This is where you can download Portal, but it's OSHA Compliant.
