@@ -1,7 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "signage/sensorgrid_trim"
-	"$surfaceprop" "glass"
-	"$selfillum" 1
-	"%keywords" "portal"
-}

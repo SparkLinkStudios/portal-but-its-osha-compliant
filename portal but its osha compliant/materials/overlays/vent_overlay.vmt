@@ -1,5 +1,0 @@
-LightMappedGeneric {
-	$basetexture						"overlays/vent_overlay"
-	$surfaceprop						"metal"
-	$decal								1
-}
