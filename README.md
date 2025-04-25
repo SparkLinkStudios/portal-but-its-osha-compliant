@@ -3,4 +3,4 @@
 Hello! This is where you can download Portal, but it's OSHA Compliant.
 
 
-# CURRENT VERSION: v2.5.1
+# CURRENT VERSION: v2.6.1
