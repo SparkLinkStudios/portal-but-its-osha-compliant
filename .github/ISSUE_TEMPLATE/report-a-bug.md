@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Report a bug
+about: Texture issue, sound issue, or other unexpected behavior
 title: "[BUG]"
 labels: ''
 assignees: ''
