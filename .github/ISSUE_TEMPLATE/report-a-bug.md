@@ -2,7 +2,7 @@
 name: Report a bug
 about: Texture issue, sound issue, or other unexpected behavior
 title: "[BUG]"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
