@@ -2,7 +2,7 @@
 name: Report a softlock
 about: Somewhere you can get trapped, or otherwise prevent progress
 title: ''
-labels: ''
+labels: softlock
 assignees: ''
 
 ---
