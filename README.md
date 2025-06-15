@@ -10,8 +10,8 @@ You can download the game from [this page](https://github.com/SparkLinkStudios/p
 
 ## How to install the game:
 1. Navigate to your Steam directory.
-> On Windows, this will be something along the lines of `C:/Program Files (x86)/Steam/`
-> On Linux, this will be something like `~/.steam/steam/`
+> On Windows, this will be something along the lines of `C:/Program Files (x86)/Steam/`.
+> On Linux, this will be something like `~/.steam/steam/`.
 2. Open the `steamapps` folder.
 3. Within that folder, open the `sourcemods` folder. If it doesn't exist, create one with that exact name.
 4. Extract the game's zip file (downloaded from the releases page above), and drop the internal folder into the sourcemods folder you opened earlier.
